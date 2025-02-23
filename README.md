@@ -22,7 +22,7 @@ Ensure you have **Python 3.7+** installed.
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ai-health-assistant.git
+   git clone [https://github.com/your-username/ai-health-assistant.git](https://github.com/Prakhar3114/ai_healthcare_chatbot)
    cd ai-health-assistant
    ```
 
